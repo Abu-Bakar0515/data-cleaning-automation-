@@ -1,0 +1,346 @@
+2026-03-14 15:35:22,224 - INFO - Cleaning Proccess Started
+2026-03-14 15:35:22,230 - INFO - Drop 250 Duplicate Rows
+2026-03-14 15:35:22,246 - INFO - Clean 0 missing values From column customer_id
+2026-03-14 15:35:22,259 - INFO - Clean 1313 missing values From column customer_name
+2026-03-14 15:35:22,260 - INFO - Detected 1195 negative values in age
+2026-03-14 15:35:22,266 - INFO - Detect 0 outliers in column age
+2026-03-14 15:35:22,270 - INFO - Handled 0 outliers in column age
+2026-03-14 15:35:22,272 - INFO - Clean 2469 Missing values from age
+2026-03-14 15:35:22,287 - INFO - Clean 1232 missing values From column gender
+2026-03-14 15:35:22,310 - INFO - Clean 1073 missing values From column city
+2026-03-14 15:35:22,313 - INFO - Detected 53 negative values in purchase_amount
+2026-03-14 15:35:22,316 - INFO - Detect 0 outliers in column purchase_amount
+2026-03-14 15:35:22,318 - INFO - Handled 0 outliers in column purchase_amount
+2026-03-14 15:35:22,319 - INFO - Clean 1041 Missing values from purchase_amount
+2026-03-14 15:35:22,343 - INFO - Clean 2494 missing values From column purchase_date
+2026-03-14 15:35:22,368 - INFO - Clean 1622 missing values From column product_category
+2026-03-14 15:35:22,375 - INFO - Detect 0 outliers in column feedback_rating
+2026-03-14 15:35:22,375 - INFO - Handled 0 outliers in column feedback_rating
+2026-03-14 15:35:22,377 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 21:56:09,681 - INFO - Cleaning Proccess Started
+2026-04-01 21:56:09,692 - INFO - Drop 250 Duplicate Rows
+2026-04-01 21:56:09,716 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 21:56:09,747 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 21:56:09,758 - INFO - Detected 1195 negative values in age
+2026-04-01 21:56:09,765 - INFO - Detect 0 outliers in column age
+2026-04-01 21:56:09,771 - INFO - Handled 0 outliers in column age
+2026-04-01 21:56:09,773 - INFO - Clean 2469 Missing values from age
+2026-04-01 21:56:09,798 - INFO - Clean 1232 missing values From column gender
+2026-04-01 21:56:09,833 - INFO - Clean 1073 missing values From column city
+2026-04-01 21:56:09,839 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 21:56:09,843 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 21:56:09,844 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 21:56:09,846 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 21:56:09,877 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 21:56:09,910 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 21:56:09,920 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 21:56:09,921 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 21:56:09,923 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 21:58:10,139 - INFO - Cleaning Proccess Started
+2026-04-01 21:58:10,144 - INFO - Drop 250 Duplicate Rows
+2026-04-01 21:58:10,163 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 21:58:10,192 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 21:58:10,197 - INFO - Detected 1195 negative values in age
+2026-04-01 21:58:10,201 - INFO - Detect 0 outliers in column age
+2026-04-01 21:58:10,205 - INFO - Handled 0 outliers in column age
+2026-04-01 21:58:10,208 - INFO - Clean 2469 Missing values from age
+2026-04-01 21:58:10,227 - INFO - Clean 1232 missing values From column gender
+2026-04-01 21:58:10,258 - INFO - Clean 1073 missing values From column city
+2026-04-01 21:58:10,263 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 21:58:10,265 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 21:58:10,267 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 21:58:10,271 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 21:58:10,292 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 21:58:10,313 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 21:58:10,325 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 21:58:10,326 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 21:58:10,327 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 21:59:14,176 - INFO - Cleaning Proccess Started
+2026-04-01 21:59:14,183 - INFO - Drop 250 Duplicate Rows
+2026-04-01 21:59:14,207 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 21:59:14,233 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 21:59:14,240 - INFO - Detected 1195 negative values in age
+2026-04-01 21:59:14,245 - INFO - Detect 0 outliers in column age
+2026-04-01 21:59:14,246 - INFO - Handled 0 outliers in column age
+2026-04-01 21:59:14,248 - INFO - Clean 2469 Missing values from age
+2026-04-01 21:59:14,274 - INFO - Clean 1232 missing values From column gender
+2026-04-01 21:59:14,294 - INFO - Clean 1073 missing values From column city
+2026-04-01 21:59:14,296 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 21:59:14,298 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 21:59:14,299 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 21:59:14,300 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 21:59:14,322 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 21:59:14,342 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 21:59:14,348 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 21:59:14,349 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 21:59:14,350 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 21:59:53,842 - INFO - Cleaning Proccess Started
+2026-04-01 21:59:53,853 - INFO - Drop 250 Duplicate Rows
+2026-04-01 21:59:53,890 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 21:59:53,914 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 21:59:53,918 - INFO - Detected 1195 negative values in age
+2026-04-01 21:59:53,923 - INFO - Detect 0 outliers in column age
+2026-04-01 21:59:53,924 - INFO - Handled 0 outliers in column age
+2026-04-01 21:59:53,927 - INFO - Clean 2469 Missing values from age
+2026-04-01 21:59:53,949 - INFO - Clean 1232 missing values From column gender
+2026-04-01 21:59:53,979 - INFO - Clean 1073 missing values From column city
+2026-04-01 21:59:53,984 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 21:59:53,989 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 21:59:53,991 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 21:59:53,994 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 21:59:54,017 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 21:59:54,042 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 21:59:54,049 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 21:59:54,050 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 21:59:54,051 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:01:53,500 - INFO - Cleaning Proccess Started
+2026-04-01 22:01:53,506 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:01:53,532 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:01:53,559 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:01:53,567 - INFO - Detected 1195 negative values in age
+2026-04-01 22:01:53,569 - INFO - Detect 0 outliers in column age
+2026-04-01 22:01:53,570 - INFO - Handled 0 outliers in column age
+2026-04-01 22:01:53,572 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:01:53,601 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:01:53,627 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:01:53,632 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:01:53,634 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:01:53,635 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:01:53,636 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:01:53,664 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:01:53,699 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:01:53,709 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:01:53,710 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:01:53,711 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:02:37,050 - INFO - Cleaning Proccess Started
+2026-04-01 22:02:37,056 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:02:37,074 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:02:37,098 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:02:37,105 - INFO - Detected 1195 negative values in age
+2026-04-01 22:02:37,108 - INFO - Detect 0 outliers in column age
+2026-04-01 22:02:37,111 - INFO - Handled 0 outliers in column age
+2026-04-01 22:02:37,114 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:02:37,135 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:02:37,155 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:02:37,164 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:02:37,165 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:02:37,166 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:02:37,167 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:02:37,189 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:02:37,214 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:02:37,222 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:02:37,224 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:02:37,227 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:03:28,388 - INFO - Cleaning Proccess Started
+2026-04-01 22:03:28,394 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:03:51,476 - INFO - Cleaning Proccess Started
+2026-04-01 22:03:51,494 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:04:27,884 - INFO - Cleaning Proccess Started
+2026-04-01 22:04:27,889 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:04:27,908 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:04:27,935 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:04:27,939 - INFO - Detected 1195 negative values in age
+2026-04-01 22:04:27,942 - INFO - Detect 0 outliers in column age
+2026-04-01 22:04:27,943 - INFO - Handled 0 outliers in column age
+2026-04-01 22:04:27,947 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:04:27,969 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:04:27,993 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:04:28,000 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:04:28,003 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:04:28,004 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:04:28,006 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:04:28,034 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:04:28,067 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:04:28,079 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:04:28,080 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:04:28,081 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:11:48,246 - INFO - Cleaning Proccess Started
+2026-04-01 22:11:48,257 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:11:48,282 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:11:48,316 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:11:48,328 - INFO - Detected 1195 negative values in age
+2026-04-01 22:11:48,336 - INFO - Detect 0 outliers in column age
+2026-04-01 22:11:48,344 - INFO - Handled 0 outliers in column age
+2026-04-01 22:11:48,347 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:11:48,418 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:11:48,460 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:11:48,466 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:11:48,474 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:11:48,477 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:11:48,479 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:11:48,513 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:11:48,563 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:11:48,580 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:11:48,581 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:11:48,583 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:15:28,713 - INFO - Cleaning Proccess Started
+2026-04-01 22:15:28,722 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:15:28,754 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:15:28,800 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:15:28,815 - INFO - Detected 1195 negative values in age
+2026-04-01 22:15:28,818 - INFO - Detect 0 outliers in column age
+2026-04-01 22:15:28,820 - INFO - Handled 0 outliers in column age
+2026-04-01 22:15:28,822 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:15:28,859 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:15:28,899 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:15:28,905 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:15:28,912 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:15:28,914 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:15:28,918 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:15:28,955 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:15:28,998 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:15:29,012 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:15:29,014 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:15:29,015 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:16:57,464 - INFO - Cleaning Proccess Started
+2026-04-01 22:16:57,472 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:16:57,504 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:16:57,541 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:16:57,553 - INFO - Detected 1195 negative values in age
+2026-04-01 22:16:57,557 - INFO - Detect 0 outliers in column age
+2026-04-01 22:16:57,562 - INFO - Handled 0 outliers in column age
+2026-04-01 22:16:57,566 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:16:57,595 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:16:57,622 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:16:57,629 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:16:57,636 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:16:57,638 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:16:57,641 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:16:57,671 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:16:57,701 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:16:57,718 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:16:57,719 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:16:57,720 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:17:35,142 - INFO - Cleaning Proccess Started
+2026-04-01 22:17:35,151 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:17:35,183 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:17:35,229 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:17:35,238 - INFO - Detected 1195 negative values in age
+2026-04-01 22:17:35,242 - INFO - Detect 0 outliers in column age
+2026-04-01 22:17:35,245 - INFO - Handled 0 outliers in column age
+2026-04-01 22:17:35,248 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:17:35,281 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:17:35,309 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:17:35,317 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:17:35,322 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:17:35,323 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:17:35,325 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:17:35,358 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:17:35,389 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:17:35,403 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:17:35,404 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:17:35,405 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:18:16,756 - INFO - Cleaning Proccess Started
+2026-04-01 22:18:16,764 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:18:16,787 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:18:16,818 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:18:16,824 - INFO - Detected 1195 negative values in age
+2026-04-01 22:18:16,830 - INFO - Detect 0 outliers in column age
+2026-04-01 22:18:16,834 - INFO - Handled 0 outliers in column age
+2026-04-01 22:18:16,836 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:18:16,865 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:18:16,890 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:18:16,900 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:18:16,903 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:18:16,903 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:18:16,905 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:18:16,934 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:18:16,972 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:18:16,990 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:18:16,994 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:18:16,999 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:20:07,253 - INFO - Cleaning Proccess Started
+2026-04-01 22:20:07,258 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:20:07,298 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:20:07,343 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:20:07,353 - INFO - Detected 1195 negative values in age
+2026-04-01 22:20:07,356 - INFO - Detect 0 outliers in column age
+2026-04-01 22:20:07,358 - INFO - Handled 0 outliers in column age
+2026-04-01 22:20:07,359 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:20:07,405 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:20:07,443 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:20:07,453 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:20:07,456 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:20:07,457 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:20:07,458 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:20:07,507 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:20:07,650 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:20:07,669 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:20:07,670 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:20:07,693 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:21:53,690 - INFO - Cleaning Proccess Started
+2026-04-01 22:21:53,695 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:21:53,727 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:21:53,779 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:21:53,790 - INFO - Detected 1195 negative values in age
+2026-04-01 22:21:53,792 - INFO - Detect 0 outliers in column age
+2026-04-01 22:21:53,794 - INFO - Handled 0 outliers in column age
+2026-04-01 22:21:53,797 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:21:53,848 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:21:53,889 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:21:53,893 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:21:53,896 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:21:53,900 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:21:53,901 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:21:53,935 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:21:53,961 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:21:53,978 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:21:53,982 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:21:53,985 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:22:26,794 - INFO - Cleaning Proccess Started
+2026-04-01 22:22:26,802 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:22:26,838 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:22:26,886 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:22:26,896 - INFO - Detected 1195 negative values in age
+2026-04-01 22:22:26,902 - INFO - Detect 0 outliers in column age
+2026-04-01 22:22:26,905 - INFO - Handled 0 outliers in column age
+2026-04-01 22:22:26,907 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:22:26,948 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:22:26,992 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:22:27,006 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:22:27,010 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:22:27,011 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:22:27,015 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:22:27,091 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:22:27,159 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:22:27,178 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:22:27,181 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:22:27,185 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:24:37,475 - INFO - Cleaning Proccess Started
+2026-04-01 22:24:37,502 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:24:37,550 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:24:37,596 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:24:37,610 - INFO - Detected 1195 negative values in age
+2026-04-01 22:24:37,614 - INFO - Detect 0 outliers in column age
+2026-04-01 22:24:37,616 - INFO - Handled 0 outliers in column age
+2026-04-01 22:24:37,619 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:24:37,658 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:24:37,695 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:24:37,707 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:24:37,711 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:24:37,712 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:24:37,715 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:24:37,749 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:24:37,791 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:24:37,809 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:24:37,810 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:24:37,811 - INFO - Clean 1129 Missing values from feedback_rating
+2026-04-01 22:29:45,934 - INFO - Cleaning Proccess Started
+2026-04-01 22:29:45,950 - INFO - Drop 250 Duplicate Rows
+2026-04-01 22:29:45,985 - INFO - Clean 0 missing values From column customer_id
+2026-04-01 22:29:46,027 - INFO - Clean 1313 missing values From column customer_name
+2026-04-01 22:29:46,045 - INFO - Detected 1195 negative values in age
+2026-04-01 22:29:46,055 - INFO - Detect 0 outliers in column age
+2026-04-01 22:29:46,059 - INFO - Handled 0 outliers in column age
+2026-04-01 22:29:46,064 - INFO - Clean 2469 Missing values from age
+2026-04-01 22:29:46,109 - INFO - Clean 1232 missing values From column gender
+2026-04-01 22:29:46,136 - INFO - Clean 1073 missing values From column city
+2026-04-01 22:29:46,143 - INFO - Detected 53 negative values in purchase_amount
+2026-04-01 22:29:46,150 - INFO - Detect 0 outliers in column purchase_amount
+2026-04-01 22:29:46,151 - INFO - Handled 0 outliers in column purchase_amount
+2026-04-01 22:29:46,153 - INFO - Clean 1041 Missing values from purchase_amount
+2026-04-01 22:29:46,205 - INFO - Clean 2494 missing values From column purchase_date
+2026-04-01 22:29:46,278 - INFO - Clean 1622 missing values From column product_category
+2026-04-01 22:29:46,304 - INFO - Detect 0 outliers in column feedback_rating
+2026-04-01 22:29:46,306 - INFO - Handled 0 outliers in column feedback_rating
+2026-04-01 22:29:46,320 - INFO - Clean 1129 Missing values from feedback_rating
