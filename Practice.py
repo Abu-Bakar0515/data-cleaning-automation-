@@ -63,19 +63,16 @@ numeric_column=clean.select_dtypes(include=[np.number]).columns[:6]
 string_column=clean.select_dtypes(include=[np.object_]).columns[:6]
 print(string_column)
 print(numeric_column)
-fig,ax=plt.subplots(2,2,figsize=(20,25))
-plt.suptitle('Sales Data Distribution Analysis', fontsize=16, fontweight='bold')
-sns.pointplot(data=clean,x=string_column[5],y=numeric_column[1],ax=ax[0,0],color='crimson')
-ax[0,0].set_title(f"Distribution of {string_column[5]}")
-sns.boxplot(data=clean,y=numeric_column[0], ax=ax[0, 1], color='skyblue',
-            flierprops={'marker': 'o', 'markerfacecolor': 'red', 'markersize': 8, 'markeredgecolor': 'darkred', 'alpha': 0.7})
-ax[0,1].set_title(f"Outliers in column {numeric_column[0]} Before Cleaning")
-col_name=string_column[3]
-counts=clean[col_name].value_counts()
-ax[1,0].pie(counts, labels=counts.index, autopct='%1.1f%%',startangle=120)
-ax[1,0].legend(title=col_name,  loc="center left", bbox_to_anchor=(-0.5, 0.5))
-sns.boxplot(data=clean,y=numeric_column[3], ax=ax[1, 1], color='skyblue',
-            flierprops={'marker': 'o', 'markerfacecolor': 'red', 'markersize': 8, 'markeredgecolor': 'darkred', 'alpha': 0.7})
-ax[1,1].set_title(f"Outliers in column {numeric_column[0]} After cleaning Cleaning")
-plt.show()
+fig,ax=plt.subplots(2,2,figsize=(25,20))
+plt.suptitle('Sales Data Distribution Analysis', fontsize=20, fontweight='bold') 
+sns.pointplot(data=clean,x=string_column[5],y=numeric_column[1],ax=ax[0,0],color='crimson') 
+ax[0,0].set_title(f"Distribution of {string_column[5]}",fontsize=18) 
+sns.boxplot(data=clean,y=numeric_column[0], ax=ax[0, 1], color='skyblue', flierprops={'marker': 'o', 'markerfacecolor': 'red', 'markersize': 8, 'markeredgecolor': 'darkred', 'alpha': 0.7}) 
+ax[0,1].set_title(f"Outliers in column {numeric_column[0]} Before Cleaning",fontsize=18) 
+col_name=string_column[3] 
+counts=clean[col_name].value_counts() 
+ax[1,0].pie(counts, labels=counts.index, autopct='%1.1f%%',startangle=140) 
+ax[1,0].legend(title=col_name, loc="center left", bbox_to_anchor=(1, 0, 0.5, 1),fontsize=15) 
+sns.boxplot(data=clean,y=numeric_column[3], ax=ax[1, 1], color='skyblue', flierprops={'marker': 'o', 'markerfacecolor': 'red', 'markersize': 8, 'markeredgecolor': 'darkred', 'alpha': 0.7}) 
+ax[1,1].set_title(f"{numeric_column[3]} Column After Cleaning",fontsize=18) 
 plt.savefig("Sales_Analysis.png")
